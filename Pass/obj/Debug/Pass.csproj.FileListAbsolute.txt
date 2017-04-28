@@ -1,0 +1,9 @@
+D:\C# уроки\Pass\Pass\bin\Debug\Pass.exe.config
+D:\C# уроки\Pass\Pass\bin\Debug\Pass.exe
+D:\C# уроки\Pass\Pass\bin\Debug\Pass.pdb
+D:\C# уроки\Pass\Pass\obj\Debug\Pass.csprojResolveAssemblyReference.cache
+D:\C# уроки\Pass\Pass\obj\Debug\Pass.Form1.resources
+D:\C# уроки\Pass\Pass\obj\Debug\Pass.Properties.Resources.resources
+D:\C# уроки\Pass\Pass\obj\Debug\Pass.csproj.GenerateResource.Cache
+D:\C# уроки\Pass\Pass\obj\Debug\Pass.exe
+D:\C# уроки\Pass\Pass\obj\Debug\Pass.pdb
